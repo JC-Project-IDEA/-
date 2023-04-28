@@ -7,11 +7,11 @@
 ## Please click into the lesson you are taking:
 
 <li>
-<a href="https://github.com/JC-Project-IDEA/Digital-Senses">  Digital Senses - Lazarus </a>
+<a href="https://github.com/JC-Project-IDEA/Digital-Senses">  數位通感 Digital Senses - Lazarus </a>
 </li>
 
 <li>
-<a href="https://github.com/JC-Project-IDEA/Draw-Sound">  Draw Sound - Andio </a>
+<a href="https://github.com/JC-Project-IDEA/Draw-Sound">  電紙樂器 Draw Sound - Andio </a>
 </li>
 
 <li>
